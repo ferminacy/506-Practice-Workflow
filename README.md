@@ -1,7 +1,7 @@
 # 506-Practice-Workflow
 Primer for 504/507 Basic Development Workflow
 
-Summary of what happened 
+Summary
 
 Create a new Github 'space' for that repository 
 
